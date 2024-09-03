@@ -1,0 +1,15 @@
+C:\Users\Pichau\source\repos\TodoSLN1\Todo.Application\bin\Debug\net8.0\Todo.Application.deps.json
+C:\Users\Pichau\source\repos\TodoSLN1\Todo.Application\bin\Debug\net8.0\Todo.Application.dll
+C:\Users\Pichau\source\repos\TodoSLN1\Todo.Application\bin\Debug\net8.0\Todo.Application.pdb
+C:\Users\Pichau\source\repos\TodoSLN1\Todo.Application\bin\Debug\net8.0\Todo.Communication.dll
+C:\Users\Pichau\source\repos\TodoSLN1\Todo.Application\bin\Debug\net8.0\Todo.Communication.pdb
+C:\Users\Pichau\source\repos\TodoSLN1\Todo.Application\obj\Debug\net8.0\Todo.Application.csproj.AssemblyReference.cache
+C:\Users\Pichau\source\repos\TodoSLN1\Todo.Application\obj\Debug\net8.0\Todo.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\source\repos\TodoSLN1\Todo.Application\obj\Debug\net8.0\Todo.Application.AssemblyInfoInputs.cache
+C:\Users\Pichau\source\repos\TodoSLN1\Todo.Application\obj\Debug\net8.0\Todo.Application.AssemblyInfo.cs
+C:\Users\Pichau\source\repos\TodoSLN1\Todo.Application\obj\Debug\net8.0\Todo.Application.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\TodoSLN1\Todo.Application\obj\Debug\net8.0\Todo.App.468A55F7.Up2Date
+C:\Users\Pichau\source\repos\TodoSLN1\Todo.Application\obj\Debug\net8.0\Todo.Application.dll
+C:\Users\Pichau\source\repos\TodoSLN1\Todo.Application\obj\Debug\net8.0\refint\Todo.Application.dll
+C:\Users\Pichau\source\repos\TodoSLN1\Todo.Application\obj\Debug\net8.0\Todo.Application.pdb
+C:\Users\Pichau\source\repos\TodoSLN1\Todo.Application\obj\Debug\net8.0\ref\Todo.Application.dll

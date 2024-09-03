@@ -1,0 +1,11 @@
+C:\Users\Pichau\source\repos\TodoSLN1\ToDo.Communication\bin\Debug\net8.0\Todo.Communication.deps.json
+C:\Users\Pichau\source\repos\TodoSLN1\ToDo.Communication\bin\Debug\net8.0\Todo.Communication.dll
+C:\Users\Pichau\source\repos\TodoSLN1\ToDo.Communication\bin\Debug\net8.0\Todo.Communication.pdb
+C:\Users\Pichau\source\repos\TodoSLN1\ToDo.Communication\obj\Debug\net8.0\Todo.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\source\repos\TodoSLN1\ToDo.Communication\obj\Debug\net8.0\Todo.Communication.AssemblyInfoInputs.cache
+C:\Users\Pichau\source\repos\TodoSLN1\ToDo.Communication\obj\Debug\net8.0\Todo.Communication.AssemblyInfo.cs
+C:\Users\Pichau\source\repos\TodoSLN1\ToDo.Communication\obj\Debug\net8.0\Todo.Communication.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\TodoSLN1\ToDo.Communication\obj\Debug\net8.0\Todo.Communication.dll
+C:\Users\Pichau\source\repos\TodoSLN1\ToDo.Communication\obj\Debug\net8.0\refint\Todo.Communication.dll
+C:\Users\Pichau\source\repos\TodoSLN1\ToDo.Communication\obj\Debug\net8.0\Todo.Communication.pdb
+C:\Users\Pichau\source\repos\TodoSLN1\ToDo.Communication\obj\Debug\net8.0\ref\Todo.Communication.dll
